@@ -1,0 +1,24 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+EffectPractice/.vs/
+EffectPractice/Library/
+EffectPractice/Temp/
+EffectPractice/PC_Build/
+EffectPractice/Assets/ScreenCapture/
+EffectPractice/*.log
+EffectPractice/Logs
+EffectPractice/obj
+EffectPractice/*.csproj
+EffectPractice/*.sln
+EffectPractice/*.vsconfig
+*.pyc
+
+*.suo
+*.opensdf
+*.sdf
+EditorStartupPrefs.asset
+EditorStartupPrefs.asset.meta
+DOTweenSettings.asset
+DOTweenSettings.asset.meta
