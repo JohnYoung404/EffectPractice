@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shader Graphs_Lightning Shader
+  m_Name: Shader Graphs_Electrical Shader
   m_Shader: {fileID: -6465566751694194690, guid: a18259db84256304e8cbadaea96d2c15,
     type: 3}
   m_ShaderKeywords: _BLENDMODE_ALPHA _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
@@ -38,6 +38,9 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Floats:
+    - Vector1_6BD183CA: 5
+    - Vector1_A9C50789: 20
+    - Vector1_C93FF09C: 0.5
     - _AlphaCutoffEnable: 0
     - _AlphaDstBlend: 10
     - _AlphaSrcBlend: 1
@@ -73,5 +76,8 @@ Material:
     - _ZTestTransparent: 4
     - _ZWrite: 1
     m_Colors:
+    - Color_331B4A83: {r: 14.2171335, g: 954.683, b: 1004.67926, a: 0}
+    - Vector2_11DBE7EA: {r: 0.1, g: -0.5, b: 0, a: 0}
+    - Vector2_CA270B3: {r: 0, g: 0.5, b: 0, a: 0}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}

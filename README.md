@@ -10,4 +10,7 @@ An Unity 2019 HDRP project to do some practice.
 ![glow](Gallery/glow.gif)
 
 ### 03. Force Shield
-![glow](Gallery/force_shield.gif)
+![force_shield](Gallery/force_shield.gif)
+
+### 04. Electrical
+![electrical](Gallery/electrical.gif)
