@@ -23,3 +23,6 @@ An Unity 2019 HDRP project to do some practice.
 
 ### 07. Doodle
 ![doodle](Gallery/doodle.gif)
+
+### 08. XRay
+![doodle](Gallery/XRay.gif)
